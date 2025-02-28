@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://192.168.2.103:8765');
+const socket = new WebSocket('ws://localhost:8765');
 let displayName = "";
 
 // Ask for display name
